@@ -1,0 +1,69 @@
+body {
+    font-family:Helvetica, sans-serif;
+    font-style: normal;
+    background-color:rgb(255, 226, 59);
+    text-align: left;
+    margin:20px;
+    padding: auto;
+}
+
+h1 {
+    font-size: 70px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+    color: rgb(255, 122, 12);
+    margin: 20px;
+    padding-bottom: 0%;
+}
+
+h2 {
+    color:rgb(218, 67, 8);
+    font-size: 40px;
+    padding: auto;
+}
+
+h3{
+    color: rgb(125, 42, 9)
+}
+
+a {
+    color: rgb(51, 4, 4);
+    font-weight: bolder;
+}
+
+#garfield {
+    width: 300px;
+    padding: auto;
+    margin-left: 20px;
+}
+
+p {
+    font-size: 15px;
+    color: rgb(137, 40, 1);
+    padding: auto;
+    margin-bottom: 2%;
+}
+
+li {
+    margin: auto;
+    align-items: center;
+    color: rgb(157, 65, 28);
+}
+
+ul {
+ list-style-position: inside;
+ text-align: left;
+}
+
+ol {
+    margin:auto;
+    text-align: left;
+    align-items: left;
+}
+
+fieldset {
+    color: rgb(67, 21, 3);
+    font-size: 12px;
+    margin: auto;
+    padding: auto;
+}
