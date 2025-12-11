@@ -1,0 +1,39 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'playfair display', Serif, sans-serif;
+    font-size: 1;
+    line-height: 1.5;
+    color: #ffffff;
+    text-align: justify;
+    background-color: rgb(47, 47, 47);
+}
+a:link{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgb(243, 146, 141);
+}    
+a:visited{
+    color: rgb(199, 199, 199);
+}
+}
+main {
+    display: flex;
+    flex-direction: column;
+  }
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    border-radius: 10%;
+}
+
+h1,h3 {
+    text-align: center;
+    color:rgb(225, 46, 55)
+}
+p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
